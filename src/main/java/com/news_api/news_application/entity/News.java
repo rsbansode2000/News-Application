@@ -7,6 +7,7 @@ public class News {
     private String timing;
     private String writer;
     private String image;
+    private String fullNews;
 
     
     public News(int id, int clicks, String newsHeading, String timing, String writer, String image, String fullNews) {
